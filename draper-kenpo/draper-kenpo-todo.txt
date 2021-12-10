@@ -1,0 +1,14 @@
+TODO:
+Refactor CSS code
+Admin: Pull Techniques from database to display on Add Technique Description page
+Admin: Add icon that indicates if the technique already has a description
+Add footer content
+	-address
+	-contact
+	-hours
+Add instructors database (Check issue with VAR_CHAR(30))
+Add calendar/blog/notices
+Make Site responsive
+Alter size of fonts
+Redesign database
+Fix add technique
